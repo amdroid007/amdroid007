@@ -2,7 +2,7 @@
 
 ### Academic Leader & Custom Solutions Developer
 
-I balance a career in higher education leadership with a deep passion for building custom software tools, enterprise data systems, and edge computing projects. My work spans from architecting academic technology frameworks to hands-on development in the Google ecosystem, mobile apps, and low-code enterprise platforms.
+I balance a career in higher education leadership with a deep passion for building custom software tools, enterprise data systems, and edge computing projects. My work spans from architecting academic technology frameworks to hands-on development in the Google ecosystem, mobile apps, and low-code enterprise platforms. 
 
 This is my private profile that I use to contribute mostly to internal projects. If you are looking for my public profile (where I publish PicoLibrary) please head to: https://github.com/jitsengupta/
 ---
