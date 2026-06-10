@@ -1,4 +1,4 @@
-# Hi there, I'm Arijit Sengupta 👋
+# Hi there, I'm Jit Sengupta 👋
 
 ### Academic Leader & Custom Solutions Developer
 
